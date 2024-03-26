@@ -5,7 +5,7 @@ public class Narzedzia {
     opis funkcji:       zlicza samogloski w podanym ciagu znaków
     parametry:          tekst - ciag znaków
     zwracany typ i opis:        int - liczba samoglosek w podanym ciagu znaków
-    autor: SJ10
+    autor: szs25
     ********************************************************/
     public static int zliczSamogloski(String tekst){
         String samogloski="aąeęiouóyAĄEĘIOUYÓY";
